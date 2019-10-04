@@ -1,6 +1,6 @@
 # Angular-NodeJs-MongoDB-Application
 
-## Execute forntend
+## Execute Forntend
   ng serve --open
 
 ## Prerequisite 
@@ -17,8 +17,8 @@
 npm run dev
 
 ## Prerequisite 
-nodeJs<br/>
-mongoDB on localhost:27017 with issues collection
+1.nodeJs<br/>
+2.mongoDB on localhost:27017 with issues collection
 
 ## Browse
 http://localhost:4200/list
