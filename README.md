@@ -21,7 +21,7 @@ npm run dev
 tsc src\index.ts
 npm run dev 
 
-Node: install all @types mentioned in package.json
+Note: install all @types mentioned in package.json
 
 ## Prerequisite 
 1.nodeJs<br/>
