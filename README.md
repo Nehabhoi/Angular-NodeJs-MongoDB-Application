@@ -13,8 +13,14 @@
   5. GET /issues/delete/:id <br/>
 3.mongodb database mongodb://localhost:27017/issues
 
-## Execute Backend
+## Execute Backend (NodeJs in Javascript)
 npm run dev
+
+## Execute Backend (NodeJs in TypeScript)
+tsc src\index.ts
+npm run dev 
+
+Node: install all @types mentioned in package.json
 
 ## Prerequisite 
 1.nodeJs<br/>
@@ -22,3 +28,6 @@ npm run dev
 
 ## Browse
 http://localhost:4200/list
+
+
+use crome extension => Allow CORS: Access-Control-Allow-Origin
